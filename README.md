@@ -14,7 +14,7 @@
 
 ## **2. Methodology**:microscope:
 
-- **Data Source:** Private information provided by Caspo Ltd - an Online Gambling company.
+- **Data Source:** Private information provided by <a href="https://www.linkedin.com/company/caspo-one/?trk=public_profile_experience-item_profile-section-card_image-click&originalSubdomain=ph">Caspo Ltd</a> - an Online Gambling company.
 - **Prediction method:**<br>
 ++ Linear and Polynomial Regression Model.<br>
 ++ Random Forest Regression Model and Parameter Tuning.
