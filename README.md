@@ -1,4 +1,4 @@
-# <h1 align="center">:euro: :game_die: :soccer: Goal Scoring And Win Probability Prediction :soccer: :game_die: :euro:<img src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png" width="50" height="50"></h1>
+# <h1 align="center">:game_die: :soccer: Goal Scoring And Win Probability Prediction :soccer: :game_die: <img src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png" width="50" height="50"></h1>
 
 ## **1. Introduction** :pushpin:
 <ul>
