@@ -2,10 +2,10 @@
 
 ## **1. Introduction** :pushpin:
 <ul>
-<li><strong>Objective:</strong> The upcoming match between UAE (home team) and Thailand (away team) will be hold on March 28th. This project aims to utilize Machine Learning to predict 2 specific questions given the history performance and team status:</li>
+<li><strong>Objective:</strong> The upcoming match between UAE (home team) and Thailand (away team) will be hold on March 28th. This project aims to utilize Machine Learning to predict 2 specific questions given a dataset of performance history and team status:</li>
 <br>
 <ul>
-<li>The number goals scored in the soccer match.</li> 
+<li>The number of goals scored in the match.</li> 
 <li>The win probability of UAE and Thailand.</li>
 </ul>
 <br>
